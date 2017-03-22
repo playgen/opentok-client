@@ -1,0 +1,25 @@
+{
+  "name": "opentok-client",
+  "version": "2.10.2",
+  "description": "Opentok JavaScript Client",
+  "main": "opentok-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/playgen/opentok-client.git"
+  },
+  "keywords": [
+    "opentok",
+    "client",
+    "sdk",
+    "javascript"
+  ],
+  "author": "",
+  "license": "Please refer to Opentok's licensing: https://tokbox.com",
+  "bugs": {
+    "url": "https://github.com/playgen/opentok-client/issues"
+  },
+  "homepage": "https://github.com/playgen/opentok-client#readme"
+}
